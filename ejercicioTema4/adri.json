@@ -1,0 +1,21 @@
+{
+        "usuario": "adri",
+        "productos": [
+                {
+                        "nombre": "crackers",
+                        "comprado": true
+                },
+                {
+                        "nombre": "chorizo",
+                        "comprado": true
+                },
+                {
+                        "nombre": "jamon serrano",
+                        "comprado": true
+                },
+                {
+                        "nombre": "bebida energetica",
+                        "comprado": false
+                }
+        ]
+}
